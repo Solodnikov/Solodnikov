@@ -1,6 +1,10 @@
 
-<h1 align="center">Hi there 👋, I'm <a href="https://daniilshat.ru/" target="_blank">Alexander</a> 
+<h1 align="center">Hi there, I'm Alexander Solodnikov</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<h3> I am studying to be a backend developer at Yandex Practicum </h3>
+
+<img src="https://www.codewars.com/users/Solodnikov/badges/large"/>
 
 <!--
 **Solodnikov/Solodnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
