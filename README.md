@@ -1,7 +1,7 @@
 
 <h2> Приветствую, я Александр Солодников</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
-<h2 align="center"> Я python разработчик </h2>
+<h2> Я python разработчик </h2>
 
 <h5> Мои реализованые проекты: </h5>
 
