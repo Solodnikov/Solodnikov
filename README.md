@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=40E0D0&height=200&section=header&text=Alexander%20Solodnikov&fontSize=40&animation=twinkling&fontColor=32CD32)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=20B2AA&height=200&section=header&text=Alexander%20Solodnikov&fontSize=40&animation=twinkling&fontColor=FFFFFF)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32CD32&width=500&lines=Hellow%2C+I+am+Alexander+Solodnikov.;I+am+a+Python+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=500&lines=Hellow%2C+I+am+Alexander+Solodnikov.;I+am+a+Python+Developer.)](https://git.io/typing-svg)
 
 
 ___
 
-![stack](https://capsule-render.vercel.app/api?type=transparent&color=40E0D0&height=50&text=Stack&fontSize=30&fontColor=32CD32&fontAlign=5)
+![stack](https://capsule-render.vercel.app/api?type=transparent&color=40E0D0&height=50&text=Stack&fontSize=30&fontColor=FFFFFF&fontAlign=5)
 <!-- Стек -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
