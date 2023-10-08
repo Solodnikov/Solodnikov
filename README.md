@@ -1,10 +1,12 @@
 
 <h2> Приветствую, я Александр Солодников</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
-<h2> Я python разработчик </h2>
 
+### Я python разработчик
+___
 
-<h5> Мои реализованые проекты: </h5>
+#### Мои реализованые проекты
+
 
 * [Приложение для благотворительного фонда на Fast API](https://github.com/Solodnikov/charity_fund)
 * [Чат-бота в Telegram с использованием aiogram](https://github.com/Studio-Yandex-Practicum/alumni_mng)
@@ -13,12 +15,12 @@
 * [Асинхронный парсер](https://github.com/Solodnikov/scrapy_parser_pep)
 
 
-<h5> Проекты запущенные на сервере: </h5>
+#### Проекты запущенные на сервере
 
 * [Приложение для ведения блога](http://45.90.218.173/)
 
-<h5>  Стек </h5>
-<h5>  Технологии </h5>
+<!-- Стек -->
+<!-- Технологии -->
 
 
 <img src="https://www.codewars.com/users/Solodnikov/badges/large"/>
