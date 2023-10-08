@@ -30,11 +30,10 @@ ___
 ---
 #### Мои реализованые проекты
 
-* [Приложение для благотворительного фонда на Fast API](https://github.com/Solodnikov/charity_fund)
-* [Чат-бота в Telegram с использованием aiogram](https://github.com/Studio-Yandex-Practicum/alumni_mng)
-* [Cайт для публикации рецептов](https://github.com/Solodnikov/foodgram-project-react)
-* [Приложение для ведения блога на Django](https://github.com/Solodnikov/hw05_gunicorn_postgres_nginx_docker)
-* [Асинхронный парсер](https://github.com/Solodnikov/scrapy_parser_pep)
+* [Приложение для благотворительного фонда](https://github.com/Solodnikov/charity_fund) (FastAPI)
+* [Сайт для ведения блога](https://github.com/Solodnikov/blog) (Django)
+* [Cайт для публикации рецептов](https://github.com/Solodnikov/foodgram-project-react) (Django)
+* [Асинхронный парсер](https://github.com/Solodnikov/scrapy_parser_pep) (Scrapy)
 
 
 #### Проекты запущенные на сервере
