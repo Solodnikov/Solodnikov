@@ -3,9 +3,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h2> Я python разработчик </h2>
 
+
 <h5> Мои реализованые проекты: </h5>
 
-* [Приложение для благотворительного фонда на Fast API](https://github.com/Solodnikov/cat_charity_fund)
+* [Приложение для благотворительного фонда на Fast API](https://github.com/Solodnikov/charity_fund)
 * [Чат-бота в Telegram с использованием aiogram](https://github.com/Studio-Yandex-Practicum/alumni_mng)
 * [Cайт для публикации рецептов](https://github.com/Solodnikov/foodgram-project-react)
 * [Приложение для ведения блога на Django](https://github.com/Solodnikov/hw05_gunicorn_postgres_nginx_docker)
