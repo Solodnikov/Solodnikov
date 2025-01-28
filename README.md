@@ -35,3 +35,4 @@ ___
 * [Приложение для укорачивания ссылок](https://github.com/Solodnikov/url_shortener) (Flask)
 * [Cайт для публикации рецептов](https://github.com/Solodnikov/foodgram-project-react) (Django)
 * [Асинхронный парсер](https://github.com/Solodnikov/scrapy_parser_pep) (Scrapy)
+* [Парсер сайта вакансий](https://github.com/Solodnikov/selenium_parser) (Selenium)
