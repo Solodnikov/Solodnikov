@@ -34,7 +34,6 @@ ___
 * [Сайт для ведения блога](https://github.com/Solodnikov/blog)
  (Django)
 * [Парсер телефонных номеров из текста](https://github.com/Solodnikov/phone_parser)
- https://github.com/Solodnikov/phone_parser
 * [Приложение для укорачивания ссылок](https://github.com/Solodnikov/url_shortener) (Flask)
 * [Cайт для публикации рецептов](https://github.com/Solodnikov/foodgram-project-react) (Django)
 * [Асинхронный парсер](https://github.com/Solodnikov/scrapy_parser_pep) (Scrapy)
