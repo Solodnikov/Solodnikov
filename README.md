@@ -29,9 +29,10 @@ ___
 
 ---
 #### Мои реализованые проекты
-
+* [Веб-сервер для обработки платежей](https://github.com/Solodnikov/payment_app) (Django)
 * [Приложение для благотворительного фонда](https://github.com/Solodnikov/charity_fund) (FastAPI)
-* [Сайт для ведения блога](https://github.com/Solodnikov/blog) (Django)
+* [Сайт для ведения блога](https://github.com/Solodnikov/blog)
+ (Django)
 * [Приложение для укорачивания ссылок](https://github.com/Solodnikov/url_shortener) (Flask)
 * [Cайт для публикации рецептов](https://github.com/Solodnikov/foodgram-project-react) (Django)
 * [Асинхронный парсер](https://github.com/Solodnikov/scrapy_parser_pep) (Scrapy)
